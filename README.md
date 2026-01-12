@@ -1,4 +1,3 @@
-# THE-WAFFLE-BUZZ
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +34,8 @@
             color: white;
         }
         .hero {
-            background-image: url('https://via.placeholder.com/1200x400?text=Waffles+Here!'); /* Replace with your image URL */
+            background-image: url(![WhatsApp Image 2026-01-12 at 1 44 34 PM](https://github.com/user-attachments/assets/12f946e6-ebf2-4f09-9982-6b3dbbc67849)
+); /* Replace with your image URL */
             background-size: cover;
             height: 400px;
             display: flex;
